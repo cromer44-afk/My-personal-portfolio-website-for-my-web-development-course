@@ -1,28 +1,33 @@
-<!DOCTYPE html>
-<html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
 
-<head>
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+h1 {
+    font-size: 40px;
+}
 
-<body>
+h2 {
+    color: #555;
+}
 
-    <header>
-        <h1>Welcome to My Portfolio</h1>
-        <p>Marketing Student & Aspiring Web Developer</p>
-    </header>
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
 
-    <section>
-        <h2>About Me</h2>
-        <p>Hello! My name is Cassandra. I am a college student interested in marketing, web development, and creativity.</p>
-    </section>
+header {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #e8dff5;
+}
 
-    <section>
-        <h2>My Projects</h2>
-        <p>This is where I will showcase my web development projects.</p>
-    </section>
-
-</body>
-
-</html>
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+}
