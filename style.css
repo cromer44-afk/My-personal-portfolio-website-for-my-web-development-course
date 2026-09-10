@@ -61,6 +61,13 @@ section ul {
 }
 
 section li {
+    footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #333;
+    color: white;
+    margin-top: 40px;
+}
     background-color: #e8dff5;
     margin: 10px 0;
     padding: 12px;
