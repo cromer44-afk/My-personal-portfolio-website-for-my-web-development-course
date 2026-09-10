@@ -31,3 +31,19 @@ section {
     padding: 30px;
     background-color: white;
 }
+nav {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
