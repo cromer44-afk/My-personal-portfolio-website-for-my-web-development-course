@@ -55,3 +55,15 @@ section img {
     display: block;
     margin: 20px auto;
 }
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section li {
+    background-color: #e8dff5;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 18px;
+}
